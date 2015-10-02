@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lesson13Sound</string>
+    <string name="action_settings">Settings</string>
+    <string name="cannotLoadFile">Cannot load file - </string>
+    <string name="playFile">Play file -</string>
+</resources>
